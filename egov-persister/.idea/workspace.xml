@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e5f3fb8-bce5-432a-997e-9ead5e7fe296" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../egov-idgen/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../egov-idgen/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egov-mdms-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../egov-mdms-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/egov/EgovPersistApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/egov/EgovPersistApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egov-workflow-v2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../egov-workflow-v2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../egov-workflow-v2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../egov-workflow-v2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul/src/main/resources/routes.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul/src/main/resources/routes.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../municipal-services/pgr-services/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../municipal-services/pgr-services/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/java/org/egov/pgr/consumer/MigrationConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/java/org/egov/pgr/consumer/MigrationConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/java/org/egov/pgr/service/MigrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/java/org/egov/pgr/service/MigrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/java/org/egov/pgr/util/MigrationUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/java/org/egov/pgr/util/MigrationUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/java/org/egov/pgr/web/controllers/MigrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/java/org/egov/pgr/web/controllers/MigrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../municipal-services/pgr-services/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TICmMHl7dEmYOF0IuFsdoJ1THw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/admin1/Downloads/DIGIT-OSS/core-services/egov-persister"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e5f3fb8-bce5-432a-997e-9ead5e7fe296" name="Changes" comment="" />
+      <created>1690721365687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690721365687</updated>
+    </task>
+    <servers />
+  </component>
+</project>
