@@ -34,7 +34,7 @@ public class UserService {
 
     /**
      * Calls user service to enrich user from search or upsert user
-     * @param request
+//     * @param request
      */
     public void callUserService(DeathRegistrationRequest request){
         request.getDeathRegistrationApplications().forEach(application -> {
@@ -173,7 +173,6 @@ public class UserService {
 
         if(!CollectionUtils.isEmpty(uuids))
             userSearchRequest.setUuid(uuids);
-
 
         StringBuilder uri = new StringBuilder(config.getUserHost()).append(config.getUserSearchEndpoint());
         UserDetailResponse userDetailResponse = userUtils.userCall(userSearchRequest,uri);

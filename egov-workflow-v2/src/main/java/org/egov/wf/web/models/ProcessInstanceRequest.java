@@ -30,7 +30,7 @@ import lombok.Builder;
 @NoArgsConstructor
 @Builder
 @ToString
-public class ProcessInstanceRequest {
+public class  ProcessInstanceRequest {
         @JsonProperty("RequestInfo")
         private RequestInfo requestInfo;
 

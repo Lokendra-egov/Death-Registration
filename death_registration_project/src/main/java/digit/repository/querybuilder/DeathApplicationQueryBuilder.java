@@ -44,7 +44,6 @@ public class DeathApplicationQueryBuilder {
             preparedStmtList.add(criteria.getApplicationNumber());
         }
 
-        // order death registration applications based on their createdtime in latest first manner
         query.append(ORDERBY_CREATEDTIME);
 
         return query.toString();

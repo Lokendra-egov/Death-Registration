@@ -7,7 +7,7 @@ import org.springframework.messaging.handler.annotation.Header;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
-import java.util.HashMap;
+//import java.util.HashMap;
 
 @Component
 public class Consumer {
@@ -17,9 +17,9 @@ public class Consumer {
     * Value of the variable kafka.topics.consumer should be overwritten in application.properties
     */
     //@KafkaListener(topics = {"kafka.topics.consumer"})
-    public void listen(final HashMap<String, Object> record) {
+//    public void listen(final HashMap<String, Object> record) {
 
         //TODO
 
-    }
+//    }
 }

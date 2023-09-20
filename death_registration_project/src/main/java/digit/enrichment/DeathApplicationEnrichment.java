@@ -1,7 +1,6 @@
 package digit.enrichment;
 
-import
-        digit.utils.IdgenUtil;
+import digit.utils.IdgenUtil;
 import digit.web.models.AuditDetails;
 import digit.web.models.DeathRegistrationApplication;
 import digit.web.models.DeathRegistrationRequest;

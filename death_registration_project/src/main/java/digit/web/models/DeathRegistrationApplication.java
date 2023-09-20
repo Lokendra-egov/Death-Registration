@@ -63,10 +63,14 @@ public class DeathRegistrationApplication   {
         @JsonProperty("auditDetails")
         private AuditDetails auditDetails = null;
 
+
+
         @Valid
         @JsonProperty("workflow")
         private Workflow workflow = null;
 
+        @JsonProperty("ApplicantId")
+        private String applicantId = null;
 
 }
 
